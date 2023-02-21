@@ -1,0 +1,194 @@
+{
+   "AdsManager":{
+      "adNetwork" :"admob",
+      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "banner_admob":"ca-app-pub-3940256099942544/630097811",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+
+      "interstitial_fan":"IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
+      "banner_fan":"IMG_16_9_APP_INSTALL#465986095404427_474834121186291",
+      "native_fan":"IMG_16_9_APP_INSTALL#465986095404427_474850511184652"
+   },
+   "Songs" :[
+      {
+         "song_name":"Essayer",
+         "artist":"Black M",
+         "song_link":"https://wvv.33rapfr.com/wp-content/uploads/2021/05/01-Essayer.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+      {
+         "song_name":"Black Shady, Pt. 4",
+         "artist":"Black M",
+         "song_link":"https://wvv.33rapfr.com/wp-content/uploads/2021/05/02-Black-Shady-Pt.-4.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+      {
+         "song_name":"A la base",
+         "artist":"Black M",
+         "song_link":"https://wvv.33rapfr.com/wp-content/uploads/2021/05/03-A-la-base.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Cesar (feat. Maître Gims)",
+         "artist":"Black M",
+         "song_link":"https://wvv.33rapfr.com/wp-content/uploads/2021/05/04-Cesar-feat.-Maître-Gims.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"N.S.E.G",
+         "artist":"Black M",
+         "song_link":"https://wvv.33rapfr.com/wp-content/uploads/2021/05/05-N.S.E.G.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Interlude Keugré",
+         "artist":"Black M",
+         "song_link":"https://wvv.33rapfr.com/wp-content/uploads/2021/05/07-Interlude-Keugré.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Million (feat. Soulby THB & MC Freshh)",
+         "artist":"Black M",
+         "song_link":"https://wvv.33rapfr.com/wp-content/uploads/2021/05/08-Million-feat.-Soulby-THB-MC-Freshh.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Galère",
+         "artist":"Black M",
+         "song_link":"https://wvv.33rapfr.com/wp-content/uploads/2021/05/09-Galère.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Terrain",
+         "artist":"Black M",
+         "song_link":"https://wvv.33rapfr.com/wp-content/uploads/2021/05/10-Terrain.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"2h du mat (feat. Worbhé)",
+         "artist":"Black M",
+         "song_link":"https://wvv.33rapfr.com/wp-content/uploads/2021/05/11-2h-du-mat-feat.-Worbhé.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Week-end",
+         "artist":"Black M",
+         "song_link":"https://wvv.33rapfr.com/wp-content/uploads/2021/05/12-Week-end.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"A la tienne",
+         "artist":"Black M",
+         "song_link":"https://wvv.33rapfr.com/wp-content/uploads/2021/05/13-A-la-tienne.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"N.S.E.G. (Remix) (feat. Les Twins)",
+         "artist":"Black M",
+         "song_link":"https://wvv.33rapfr.com/wp-content/uploads/2021/05/14-N.S.E.G.-Remix-feat.-Les-Twins.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Bon (Prologue)",
+         "artist":"Black M",
+         "song_link":"https://wwv.33rapmp3.co/wp-content/uploads/2019/09/1-Bon-Prologue.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Mon beau-frère",
+         "artist":"Black M",
+         "song_link":"https://wwv.33rapmp3.co/wp-content/uploads/2019/09/2-Mon-beau-frère.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Ainsi valse la vie",
+         "artist":"Black M",
+         "song_link":"https://wwv.33rapmp3.co/wp-content/uploads/2019/09/3-Ainsi-valse-la-vie.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Léa",
+         "artist":"Black M",
+         "song_link":"https://wwv.33rapmp3.co/wp-content/uploads/2019/09/4-Léa.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Sale journée",
+         "artist":"Black M",
+         "song_link":"https://wwv.33rapmp3.co/wp-content/uploads/2019/09/5-Sale-journée.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Oh Mama",
+         "artist":"Black M",
+         "song_link":"https://wwv.33rapmp3.co/wp-content/uploads/2019/09/6-Oh-Mama.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Lucien",
+         "artist":"Black M",
+         "song_link":"https://wwv.33rapmp3.co/wp-content/uploads/2019/09/7-Lucien.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Monsieur l'agent",
+         "artist":"Black M",
+         "song_link":"https://wwv.33rapmp3.co/wp-content/uploads/2019/09/8-Monsieur-lagent.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"No No No",
+         "artist":"Black M",
+         "song_link":"https://wwv.33rapmp3.co/wp-content/uploads/2019/09/9-No-No-No.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Pervers narcissique",
+         "artist":"Black M",
+         "song_link":"https://wwv.33rapmp3.co/wp-content/uploads/2019/09/10-Pervers-narcissique.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+           {
+         "song_name":"Dans mon délire",
+         "artist":"Black M",
+         "song_link":"https://wwv.33rapmp3.co/wp-content/uploads/2019/09/11-Dans-mon-délire.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+           {
+         "song_name":"Like",
+         "artist":"Black M",
+         "song_link":"https://wwv.33rapmp3.co/wp-content/uploads/2019/09/12-Like.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+           {
+         "song_name":"Autour de moi",
+         "artist":"Black M",
+         "song_link":"https://wwv.33rapmp3.co/wp-content/uploads/2019/09/13-Autour-de-moi.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+           {
+         "song_name":"Maître Yaya",
+         "artist":"Black M",
+         "song_link":"https://wwv.33rapmp3.co/wp-content/uploads/2019/09/14-Maître-Yaya.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+           {
+         "song_name":"Maman j'arrive",
+         "artist":"Black M",
+         "song_link":"https://wwv.33rapmp3.co/wp-content/uploads/2019/09/15-Maman-jarrive.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+           {
+         "song_name":"Doutes (Épilogue)",
+         "artist":"Black M",
+         "song_link":"https://wwv.33rapmp3.co/wp-content/uploads/2019/09/16-Doutes-Épilogue.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+           {
+         "song_name":"Bon (Remix)",
+         "artist":"Black M",
+         "song_link":"https://wwv.33rapmp3.co/wp-content/uploads/2019/09/17-Bon-Remix.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      }   
+   ]
+}
